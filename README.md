@@ -1,1 +1,52 @@
-# mong-kok-street-heroes
+# 旺角街頭英雄傳
+
+霓虹燈下・十一個人的迴響。以 1980 至 2000 年代旺角為背景的 2D 一對一街機格鬥遊戲（v2）。十一位可玩角色，加上最終頭目「旺角之魂・霓虹龍」。沒有反派，沒有血腥。
+
+## 線上遊玩
+
+用電腦橫向視窗，或把手機打橫：
+
+https://cwingfoto.github.io/mong-kok-street-heroes/
+
+支援鍵盤、手掣同手機虛擬掣。iPhone 可用 Safari「分享 → 加入主畫面」做全螢幕。
+
+## 離線下載
+
+約 20MB。解壓後雙擊 `mk-fighter/index.html`，唔使開伺服器，亦唔使上網（Chrome、Edge、Firefox、Safari 都得）：
+
+[下載離線版 mk-fighter-play-offline-v2.zip](download/mk-fighter-play-offline-v2.zip)
+
+直接下載：https://cwingfoto.github.io/mong-kok-street-heroes/download/mk-fighter-play-offline-v2.zip
+
+## 點玩
+
+標題畫面按任意鍵、點擊或手掣進入選單。`Esc` 返回標題。`Esc` / `P` 暫停。`M` 開關音樂。
+
+| 模式 | 內容 |
+|---|---|
+| 街機模式 | 連戰七人（三局兩勝），獎勵關之後打天台頭目 |
+| 純故事模式 | 逐個見面打一局，可觀看、親自打或略過 |
+| 雙人對戰 | 同一部鍵盤，或兩個手掣 |
+| 自由對戰 | 自己揀對手 |
+| 觀戰模式 | 電腦對打 |
+
+1P：移動 `W` `A` `S` `D`（空白鍵跳），拳 `J`，腳 `K`，必殺 `U` `I` `O`，超必殺 `L`（要兩格氣）。  
+2P：方向鍵，拳 `,`，腳 `.`，必殺 `;` `'` `]`，超必殺 `/`（或數字鍵盤）。  
+蹲低加腳係掃腿。按住後退係防禦。
+
+## 十一位角色
+
+九龍皇帝、龍記大隻佬、先達水貨炒機王、信和宅男、金雞機鋪唱錢大嬸、砵蘭街大鑊火師傅、女人街殺價檔主、旺角球場波牛、無腳雀仔・阿飛，以及：
+
+- **好景商場四仔隱藏仙人**
+- **旺角MK妹**（25 歲成年人）
+
+標題畫面係十一人肖像，下面係原創地標：先達廣場、信和中心、砵蘭街、旺角電腦中心、波鞋街。
+
+操作、招式同故事出處見 [遊戲說明.txt](遊戲說明.txt)。
+
+## 發佈說明
+
+靜態檔案用相對路徑，對應 GitHub Pages 專案網址 `/mong-kok-street-heroes/`。`manifest.json` 的 `start_url` 同 `scope` 都係 `./`。服務工作線程登記 `sw.js`，範圍只限本遊戲目錄，離線快取沿用實際請求網址，唔會攞成個 `github.io` 網域。根目錄 `.nojekyll` 讓 Pages 原樣發佈，包括 `js/vendor`。
+
+`js/vendor/phaser.min.js` 係第三方 Phaser 3，授權以其上游檔案為準。本倉庫沒有為遊戲或第三方作品另立授權。

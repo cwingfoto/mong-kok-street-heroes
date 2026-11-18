@@ -1,0 +1,111 @@
+旺角街頭英雄傳 — 霓虹燈下・十一個人的迴響　(MONG KOK STREET HEROES)
+
+【點樣玩】
+離線：解壓 mk-fighter-play-offline-v2.zip，雙擊 mk-fighter/index.html（Chrome / Edge / Firefox / Safari 都得）。
+本站同一份離線包：download/mk-fighter-play-offline-v2.zip
+手機：用網址開，打橫玩；iPhone 可以「分享 → 加入主畫面」做全螢幕。
+
+【標題畫面】按任何鍵／點擊畫面／手掣任何掣 → 主選單；主選單撳 Esc 返回標題畫面。
+
+【模式】
+街機模式：打 7 個對手（三局兩勝），中間有故事同獎勵關（食麵・執紙皮・接銅仔），最後天台決戰霓虹龍，睇結局。
+純故事模式：同其餘 10 位每人打「一局」，之後到霓虹龍；每場可以揀「觀看（自動）／親自打／略過」，輸贏唔影響故事。
+雙人對戰・自由對戰・觀戰模式。難度：簡單／普通／困難（會影響最終頭目）。
+打完任何一個結局之後，霓虹龍可以喺雙人／自由／觀戰揀。
+
+【操作】
+1P：A D 行、W 或 Space 跳、S 蹲；J 拳、K 腳；U I O 必殺1/2/3；L 超必殺（要兩格氣）
+2P：方向鍵；Numpad1 拳、Numpad2 腳、Numpad4/5/6 必殺、Numpad3 超必殺（或 , . ; ' ] /）
+蹲拳＝↓＋拳，掃腿＝↓＋腳，跳起撳拳腳＝跳拳/跳腳，按住後＝防禦。Esc / P 暫停。
+阿飛換裝：選角時撳 U / Tab（2P：Numpad4 / ;）或者「換裝」掣；打超必殺時會中途變身白背心。
+手機：左邊搖桿，右邊六粒掣；支援多點觸控。
+
+【角色】（只用稱號，冇真名；冇反派）
+九龍皇帝・龍記大隻佬・先達水貨炒機王・信和宅男・金雞機鋪唱錢大嬸・砵蘭街大鑊火師傅・女人街殺價檔主・旺角球場波牛・無腳雀仔・阿飛・好景商場四仔隱藏仙人・旺角MK妹（25歲成年人）
+最終頭目：旺角之魂・霓虹龍（被拆落嚟嘅招牌之靈）
+說故事嘅人：芳姐（深夜糖水舖老闆娘，原創角色）
+
+【故事參考資料】（真實背景經資料搜集後改編成虛構故事）
+九龍皇帝：
+  https://www.mplus.org.hk/tc/magazine/king-of-kowloon/
+  https://www.mplus.org.hk/tc/collection/makers/tsang-tsou-choi-aka-king-of-kowloon/
+  https://hkuspace.hku.hk/sharing/Kowloon
+  https://www.info.gov.hk/gia/general/201001/13/P201001130217.htm
+先達廣場（水貨手機）：
+  https://zh.wikipedia.org/wiki/先達廣場
+  http://www.hkcd.com/content/2017-01/09/content_1032053.html
+信和中心：
+  https://www.hk01.com/社會新聞/232864
+  https://lbms03.cityu.edu.hk/oaps/cah2016-4514-cmw017.pdf
+遊戲機中心：
+  https://recordinghk.com/2025/06/23/再見遊戲機中心/
+  http://ubeat.com.cuhk.edu.hk/ubeat_past/020551/51game.htm
+  https://apple-daily.eth.limo/20160719/BFVTFLXE6ZTK7WTYGP3RUCHYZQ/
+大牌檔：
+  http://paper.wenweipo.com/2010/09/06/FC1009060001.htm
+  https://www.hkmemory.org/ymt/text/index.php?catId=780
+女人街：
+  https://zh.wikipedia.org/wiki/女人街
+  https://www.ourchinastory.com/zh/3635
+執紙皮長者：
+  https://www.hk01.com/社會新聞/60402813
+  https://www.cna.com.tw/news/acn/202605240166.aspx
+旺角大球場／街頭足球：
+  https://zh.wikipedia.org/wiki/旺角大球場
+  https://matters.town/a/8wqug3m94hs5
+霓虹招牌：
+  https://www.info.gov.hk/gia/general/202307/05/P2023070500224.htm
+  https://www.hkcd.com/hkcdweb/content/2023/07/05/content_8588874.html
+  https://www.hkcd.com/hkcdweb/content/2024/12/24/content_8673357.html
+  https://cn.nytimes.com/china/20231211/hong-kong-neon-signs/
+
+免費工具製作：Phaser 3（MIT）、Python / Pillow、Playwright。
+
+＝＝＝＝ v2：十一個人的迴響（資料與創作分界）＝＝＝＝
+本遊戲全體角色都是虛構合成人物，不是任何真人傳記；搬舖、等待、租約、親友離散、舞室、修碟等個人遭遇全部原創。
+「念念不忘、必有迴響」為用戶提供的題辭，不冒稱本遊戲原創，不附會真人作者。
+「三仔有格仔，四仔冇格仔」為用戶提供的口號。以下文獻記錄近似叫賣句，但未確認此逐字版本的最初說話人。
+除上述用戶提供的句子外，本遊戲對白、勝利語與招式均為虛構創作，並非真人語錄。
+故事主題：人與地方不一定回來；有人記得當年受過照顧，就照顧下一個人。無反派，不把貧窮或女性當笑話。
+
+【好景商場四仔隱藏仙人】58歲，原創合成。青綠格仔短袖、斜袋、灰髮眼鏡由本遊戲設計，並非已核實的真人衣著。
+招式：碟海・銀光借路／格仔・留白之牆／布簾・散場回身／好景不散・末班放映。
+只有光碟、抽象色格、布簾與投影機；沒有色情影像、裸露或性行為。故事講救不完整的街坊合照，並非真人事蹟。
+1. 東方日報，2015-12-08〈「四樓有四仔」已洗底開潮舖〉：好景1983年落成，早期電玩、1990年代光碟店、叫賣與轉型。
+https://orientaldaily.on.cc/cnt/news/20151208/00176_003.html
+2. Just Walk Tour，頁面2022-03-30〈好景商業中心（旺角另類地標）〉：街頭聲線與2000年代叫賣口號的回憶。
+https://justwalktour.com/20220330e/
+3. 2005-06-26 PChome個人新聞台轉載：當年網民流傳的近似口號，可作口述文化線索，不作精確作者考據。
+https://mypaper.pchome.com.tw/gabrielho/post/1248451755
+以上可讀文字未能可靠確認「典型」衣服或固定造型；本遊戲不把推測寫成事實，不使用真人名字或照描肖像。
+
+【旺角MK妹】25歲成年人，原創街頭舞者。1990年代靈感、而非某年完整考據復原。短外套／合身露腰上衣／高腰短褲、棕金挑染、耳環、格仔絲帶厚底靴。
+服裝剪裁、配色、外形與招式均為原創，不模仿任何既有格鬥角色的面孔、旗袍、髮髻或招式名稱。
+招式：街角・踏光連踢／鞋帶・低迴掃步／天台・躍霓挑踢／未完的八拍・霓虹疾奏。
+故事：排舞室退租，四人演出沒有成事；她教收檔街坊伸展，把失去的第五拍交給下一個人。
+4. TVB，2022-12-29〈新聞掏寶：有型仕〉重訪1994年特輯：染金髮、銀色／格仔短裙、多耳環、長靴以格仔絲帶替換鞋帶、當時用語 YEAH / IN。
+https://news.tvb.com/tc/856403-新聞掏寶有型仕
+只借用公開紀錄的服飾元素，不借用被訪者的外貌、年齡或人生；本角明確25歲，不是學生。
+5. 粵典 MK 詞條（詞條版權標示2022）：1990–2000年代旺角形象、染髮與強烈飾物；指出此稱呼常帶貶義。本作刻意以自我認同、尊嚴描寫，不採用貶稱敘事。
+https://words.hk/zidin/MK
+6. 中央廣播電臺，2024-10-19〈旺角的MK文化〉：回顧主要2000–2010年代的斜瀏海、背心熱褲、商場／貼紙相等。
+https://archive.news.rti.org.tw/news/view/id/2224647
+7. Cosmopolitan HK，2023-09-18〈那些年的MK妝容髮型〉：有2002年出道團體、負離子頭、黑邊大眼仔等例子，主要千禧後，不誤稱1990年代確證；本角沒有照搬這些真人妝容。
+https://www.cosmopolitan.com.hk/beauty/hong-kong-mongkok-style-makeup-and-hair-2
+8. 海外網，2013-07-24轉述Newsweek服裝回顧：1990年代露臍裝／厚底復古潮是國際背景，並非旺角特定服裝證據。
+http://world.haiwainet.cn/BIG5/n/2013/0724/c351705-19142522.html
+高腰短褲、短外套與不露骨的整體搭配屬原創美術取捨；不聲稱這套搭配代表所有90年代女性。
+
+【封面地標】全新原創向量線稿大頭群像與概念建築蒙太奇，不是放大遊戲小人，不是照片或電影劇照。
+先達廣場／信和中心（不是「信和廣場」）／砵蘭街／旺角電腦中心／花園街（波鞋街），沒有真實鞋／電腦品牌Logo。
+9. 香港旅遊發展局〈花園街（波鞋街）〉：登打士街至亞皆老街，1980年代以來運動用品集中。
+https://www.discoverhongkong.com/tc/place-to-go/travel.guide-sneakers-street.html
+10. 先達廣場：1995拆分舖位、1997後電訊店進駐；並非1980年代已有相同手機商場。
+https://zh.wikipedia.org/wiki/先達廣場
+11. 信和中心：1979落成、彌敦道商業大廈、低層潮流零售。
+https://zh.wikipedia.org/wiki/信和中心
+地標繪畫為可辨識招牌／街區符號的風格化重組，不是精確立面測繪或歷史某一年的街景。
+
+【v2離線版】解壓整個 mk-fighter 資料夾後雙擊 index.html。所有圖片已內嵌；音樂音效由Web Audio即時合成，使用本機系統字型，無CDN。
+精簡離線版不包含重複 assets 圖檔，因此不要用HTTP伺服器開它；網頁部署請用 deploy-v2.zip。
+【美術製作方式】新大頭、新角色18姿勢及2P配色以本機Python撰寫原創SVG／向量墨線、CairoSVG/Pillow轉圖，無付費圖片服務、無生成式圖片工具。
