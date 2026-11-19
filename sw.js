@@ -1,6 +1,6 @@
 // Service worker for 旺角街頭英雄傳 — network-first, cache fallback (offline play).
 // Own cache name (mk-fighter-*) so it never collides with other games on the same host.
-const CACHE = 'mk-fighter-v2';
+const CACHE = 'mk-fighter-v2-1';
 self.addEventListener('install', e => self.skipWaiting());
 self.addEventListener('activate', e => e.waitUntil(
   caches.keys().then(keys => Promise.all(keys.filter(k => k.startsWith('mk-fighter-') && k !== CACHE).map(k => caches.delete(k))))

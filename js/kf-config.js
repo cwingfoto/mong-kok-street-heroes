@@ -12,7 +12,7 @@ const GAME = {
   short: '旺角英雄傳',
   cachePrefix: 'mk-fighter-',          // service-worker cache name prefix (sw.js uses mk-fighter-v1)
   storeKey: 'mk-fighter',              // localStorage prefix
-  version: 'v2.0',
+  version: 'v2.1',
 };
 const GAME_TITLE = GAME.title;
 const GAME_SUB = GAME.subtitle;
